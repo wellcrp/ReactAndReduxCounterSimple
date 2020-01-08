@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["ReactDOM","render","document","getElementById"],"mappings":"uIAAA,yCAGAA,EAASC,OAAO,uCAAiBC,SAASC,eAAe,W","file":"static/js/main.dfacdf66.chunk.js","sourcesContent":["import React from 'react';\r\nimport ReactDOM from 'react-dom';\r\n\r\nReactDOM.render(<p> TETETE </p>, document.getElementById('root'));"],"sourceRoot":""}
